@@ -9,7 +9,7 @@ Este repósitorio é destinado a entrega da atividade proposta na aula em quest�
 
 Importante ressaltar que o arquivo `index.html` e a pasta `imagens` foram criadas dentro da pasta `/src` pois foi implementado utilizando o projeto padrão gerada pelo Angular.
 
-```html
+```css
 my-app/
 ├── src/
 │    └── index.html
